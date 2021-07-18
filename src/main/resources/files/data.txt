@@ -1,0 +1,5 @@
+id,fname,lname,salary
+1,sachin,surve,5000
+2,pravin,surve,4000
+3,sunita,surve,3000
+4,ratna,surve,10000
